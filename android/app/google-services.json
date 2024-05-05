@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22010132142",
+    "project_id": "mitco-task",
+    "storage_bucket": "mitco-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22010132142:android:0f114668bd8ddf610ddf3f",
+        "android_client_info": {
+          "package_name": "com.example.mitco_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfaeHPVbiGjpTAYzgqoMhuaZlwteSSrwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
